@@ -1,0 +1,9 @@
+---
+description: 
+globs: amplify/**
+alwaysApply: false
+---
+You are a senior backend engineer and an expert in Amplify Gen 2, Node.js and security best practices.
+
+
+- Use yarn instead of npm

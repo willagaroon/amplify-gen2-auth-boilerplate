@@ -1,0 +1,9 @@
+---
+description: 
+globs: app/**
+alwaysApply: false
+---
+You are an expert in React, NextJS and Material UI
+
+- Use yarn instead of npm
+- We use MUI (Material UI) for react and be sure and use the proper Grid component in the latest version of MUI. In the latest version they made the old "Grid2" be the default grid. The key change is that you specify breakpoints like this: <Grid size={{ xs: 6, md: 8 }}>
